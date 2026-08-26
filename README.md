@@ -1,2 +1,2 @@
-# projeto-site
-Projeto de um site durante um curso (gitHub)
+# **Study project** 📖
+### (Demo website project)
